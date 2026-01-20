@@ -17,12 +17,43 @@
 <!-- ====== Animated Typing Text ====== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Product+Engineer+%7C+Full+Stack+Developer;Building+AI+SaaS+Platforms+with+LLMs;Experienced+in+RAG%2C+Prompt+Engineering+%26+LLM+APIs;Designing+Scalable+Backends+%26+Secure+Auth+Systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=600&color=22C55E&center=true&vCenter=true&width=950&lines=AI+Product+Engineer+%7C+Full+Stack+Developer;Building+AI+SaaS+Platforms+with+LLMs;RAG%2C+Prompt+Engineering+%26+LLM+APIs;Scalable+Backends+%26+Secure+Auth+Systems"
     alt="Typing SVG"
   />
 </p>
 
 
+
+---
+## 🚀 Featured Projects
+
+### 💰 AI Finance Platform (Live)
+**Tech Stack:** Next.js, React, Tailwind CSS, PostgreSQL, LLM APIs  
+🔗 **Repo:** https://github.com/KhushiPrasad26/AI-Finance-Platform  
+🌐 **Live:** https://sensai-snowy-nu.vercel.app/
+
+- Built a full-stack AI-powered finance platform with secure authentication and account management.
+- Implemented budgeting, transaction dashboards, automated alerts, and reporting workflows.
+- Integrated LLM-based receipt scanning and AI insights for intelligent expense classification.
+
+---
+
+### 🎯 AI Career Coach – Full Stack AI Platform (Live)
+**Tech Stack:** React, Next.js, Tailwind CSS, PostgreSQL, LLM APIs  
+🌐 **Live:** https://quick-ai-liart-two.vercel.app/
+
+- Developed an AI career assistant for mock interviews, resume generation, and personalized guidance.
+- Designed asynchronous insight and report generation workflows, reducing processing time by 45%.
+- Built scalable PostgreSQL schemas with secure authentication and user session handling.
+
+---
+
+### 🤖 AI SaaS Application with Subscription Model
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, LLM APIs, Cloudinary  
+
+- Architected an AI SaaS platform serving 300+ active users with role-based access control.
+- Implemented subscription plans with usage limits, reducing unauthorized access by 90%.
+- Built an AI resume analyzer using LLM scoring, cutting review time by 65%.
 ---
 ## 💻 Tech Stack
 
@@ -77,4 +108,5 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
 </p>
+
 
