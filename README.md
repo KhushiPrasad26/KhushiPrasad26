@@ -6,4 +6,9 @@
     width="800"
   />
 </p>
+<p align="center">
+  <strong>DSA Enthusiast | Problem Solver</strong><br/>
+  <strong>Backend & Full Stack Developer</strong><br/>
+  Building Scalable Web & AI Applications
+</p>
 
