@@ -27,10 +27,11 @@
 ---
 ## 🚀 Featured Projects
 
-### 💰 AI Finance Platform (Live)
+### 💰 AI Finance Platform
 **Tech Stack:** Next.js, React, Tailwind CSS, PostgreSQL, LLM APIs  
-🔗 **Repo:** https://github.com/KhushiPrasad26/AI-Finance-Platform  
-🌐 **Live:** https://sensai-snowy-nu.vercel.app/
+🔗 **Repo:** [GitHub Repository](https://github.com/KhushiPrasad26/AI-Finance-Platform)
+
+
 
 - Built a full-stack AI-powered finance platform with secure authentication and account management.
 - Implemented budgeting, transaction dashboards, automated alerts, and reporting workflows.
@@ -38,9 +39,13 @@
 
 ---
 
-### 🎯 AI Career Coach – Full Stack AI Platform (Live)
-**Tech Stack:** React, Next.js, Tailwind CSS, PostgreSQL, LLM APIs  
-🌐 **Live:** https://quick-ai-liart-two.vercel.app/
+### 🎯 AI Career Coach – Full Stack AI Platform 
+**Tech Stack:** React, Next.js, Tailwind CSS, PostgreSQL, LLM APIs
+
+🔗 **Repo:** [GitHub Repository](https://github.com/KhushiPrasad26/SensAI-Career-Coach-)
+
+🌐 **Live:** https://sensai-snowy-nu.vercel.app/
+
 
 - Developed an AI career assistant for mock interviews, resume generation, and personalized guidance.
 - Designed asynchronous insight and report generation workflows, reducing processing time by 45%.
@@ -50,6 +55,10 @@
 
 ### 🤖 AI SaaS Application with Subscription Model
 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, LLM APIs, Cloudinary  
+
+🔗 **Repo:** [QuickAI – Full Stack AI SaaS](https://github.com/KhushiPrasad26/QuickAI-Full-Stack-AI-SaaS-Application)
+
+🌐 **Live:** https://quick-ai-liart-two.vercel.app/
 
 - Architected an AI SaaS platform serving 300+ active users with role-based access control.
 - Implemented subscription plans with usage limits, reducing unauthorized access by 90%.
