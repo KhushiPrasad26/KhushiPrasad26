@@ -29,6 +29,7 @@
 
 ### 💰 AI Finance Platform
 **Tech Stack:** Next.js, React, Tailwind CSS, PostgreSQL, LLM APIs  
+
 🔗 **Repo:** [GitHub Repository](https://github.com/KhushiPrasad26/AI-Finance-Platform)
 
 
